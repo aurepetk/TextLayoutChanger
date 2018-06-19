@@ -1,0 +1,10 @@
+C:\Users\AlmantasK\Desktop\AureProjects\TextLayoutChanger\TextLayoutChanger\TextLayoutChanger\bin\Release\TextLayoutChanger.exe.config
+C:\Users\AlmantasK\Desktop\AureProjects\TextLayoutChanger\TextLayoutChanger\TextLayoutChanger\bin\Release\TextLayoutChanger.exe
+C:\Users\AlmantasK\Desktop\AureProjects\TextLayoutChanger\TextLayoutChanger\TextLayoutChanger\bin\Release\TextLayoutChanger.pdb
+C:\Users\AlmantasK\Desktop\AureProjects\TextLayoutChanger\TextLayoutChanger\TextLayoutChanger\bin\Release\HtmlAgilityPack.dll
+C:\Users\AlmantasK\Desktop\AureProjects\TextLayoutChanger\TextLayoutChanger\TextLayoutChanger\bin\Release\HtmlAgilityPack.pdb
+C:\Users\AlmantasK\Desktop\AureProjects\TextLayoutChanger\TextLayoutChanger\TextLayoutChanger\bin\Release\HtmlAgilityPack.xml
+C:\Users\AlmantasK\Desktop\AureProjects\TextLayoutChanger\TextLayoutChanger\TextLayoutChanger\obj\Release\TextLayoutChanger.csproj.CoreCompileInputs.cache
+C:\Users\AlmantasK\Desktop\AureProjects\TextLayoutChanger\TextLayoutChanger\TextLayoutChanger\obj\Release\TextLayoutChanger.csproj.CopyComplete
+C:\Users\AlmantasK\Desktop\AureProjects\TextLayoutChanger\TextLayoutChanger\TextLayoutChanger\obj\Release\TextLayoutChanger.exe
+C:\Users\AlmantasK\Desktop\AureProjects\TextLayoutChanger\TextLayoutChanger\TextLayoutChanger\obj\Release\TextLayoutChanger.pdb
