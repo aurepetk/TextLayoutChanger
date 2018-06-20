@@ -14,7 +14,7 @@ namespace TextLayoutChanger
         public PropertyDescription(string name, string type)
         {
             Name = name;
-            Type = type;
+            Type = type.Replace("\r\n", "");
         }
     }
 }
