@@ -50,9 +50,11 @@ namespace TextLayoutChanger
             {
                 var nameNode = row.SelectSingleNode("./td[1]/a");
                 var name = nameNode.InnerText;
+                var nameDBNode = row.SelectSingleNode("./td[2]");
+                var nameDB = nameDBNode.InnerText;
                 var typeNode = row.SelectSingleNode("./td[3]");
                 var type = typeNode.InnerText;
-                PropertyDescription propertyDescription = new PropertyDescription(name, type);
+                PropertyDescription propertyDescription = new PropertyDescription(name, nameDB, type);
                 propertiesDescriptions.Add(propertyDescription);
             }
 

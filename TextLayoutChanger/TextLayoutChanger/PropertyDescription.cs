@@ -9,11 +9,13 @@ namespace TextLayoutChanger
     class PropertyDescription
     {
         public string Name { get; set; }
+        public string NameDB { get; set; }
         public string Type { get; set; }
 
-        public PropertyDescription(string name, string type)
+        public PropertyDescription(string name, string nameDB, string type)
         {
             Name = name;
+            NameDB = nameDB.Replace("\r\n", "");
             Type = type.Replace("\r\n", "");
         }
     }

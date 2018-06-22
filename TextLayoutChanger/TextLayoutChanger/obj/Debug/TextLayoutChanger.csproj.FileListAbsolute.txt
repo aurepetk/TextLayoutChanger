@@ -9,3 +9,7 @@ C:\Users\AlmantasK\Desktop\AureProjects\TextLayoutChanger\TextLayoutChanger\Text
 C:\Users\AlmantasK\Desktop\AureProjects\TextLayoutChanger\TextLayoutChanger\TextLayoutChanger\obj\Debug\TextLayoutChanger.csproj.CopyComplete
 C:\Users\AlmantasK\Desktop\AureProjects\TextLayoutChanger\TextLayoutChanger\TextLayoutChanger\obj\Debug\TextLayoutChanger.exe
 C:\Users\AlmantasK\Desktop\AureProjects\TextLayoutChanger\TextLayoutChanger\TextLayoutChanger\obj\Debug\TextLayoutChanger.pdb
+C:\Users\AlmantasK\Desktop\AureProjects\TextLayoutChanger\TextLayoutChanger\TextLayoutChanger\bin\Debug\TextLayoutChanger.exe.manifest
+C:\Users\AlmantasK\Desktop\AureProjects\TextLayoutChanger\TextLayoutChanger\TextLayoutChanger\bin\Debug\TextLayoutChanger.application
+C:\Users\AlmantasK\Desktop\AureProjects\TextLayoutChanger\TextLayoutChanger\TextLayoutChanger\obj\Debug\TextLayoutChanger.exe.manifest
+C:\Users\AlmantasK\Desktop\AureProjects\TextLayoutChanger\TextLayoutChanger\TextLayoutChanger\obj\Debug\TextLayoutChanger.application
